@@ -568,7 +568,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 215f84798734bb24cbd2d7f6b49321b4, type: 2}
+    - {fileID: 11400000, guid: 493b9182faa16264e87275af70337499, type: 2}
 --- !u!114 &1267575276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -582,7 +582,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":3.0,"$type":"System.Single"},"$version":"A"},{"name":"RunSpeed","value":{"$content":8.0,"$type":"System.Single"},"$version":"A"},{"name":"Moving","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
     _objectReferences: []
 --- !u!70 &1267575277
 CapsuleCollider2D:
@@ -620,7 +620,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!212 &1267575279
 SpriteRenderer:
   m_ObjectHideFlags: 0
