@@ -134,9 +134,9 @@ GameObject:
   - component: {fileID: 312280401}
   - component: {fileID: 312280400}
   - component: {fileID: 312280399}
+  - component: {fileID: 312280402}
   - component: {fileID: 312280404}
   - component: {fileID: 312280403}
-  - component: {fileID: 312280402}
   m_Layer: 6
   m_Name: PlatformB
   m_TagString: Untagged
@@ -264,9 +264,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data:
-    _json: '{"declarations":{"collection":{"$content":[{"name":"WaitTime","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"},{"name":"effector","value":{"$content":0,"$type":"UnityEngine.Object"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
-    _objectReferences:
-    - {fileID: 312280404}
+    _json: '{"declarations":{"collection":{"$content":[{"name":"WaitTime","value":{"$content":0.5,"$type":"System.Single"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
 --- !u!251 &312280404
 PlatformEffector2D:
   m_ObjectHideFlags: 0
