@@ -7,6 +7,8 @@ TagManager:
   - SmallCoin
   - Enemy
   - Fireball
+  - StompAttack
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -15,16 +17,16 @@ TagManager:
   - Water
   - UI
   - Platforms
+  - Attacks
   - Player
+  - Enemies
   - 
   - 
+  - Collectables
+  - NPC
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
   - 
   - 
   - 
