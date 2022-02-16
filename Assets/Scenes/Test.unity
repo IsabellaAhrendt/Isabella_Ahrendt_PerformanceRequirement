@@ -2335,6 +2335,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 8265017367220577431, guid: c69f5e5e68cfa0b489f2773ab36cb788, type: 3}
+      propertyPath: _data._json
+      value: '{"declarations":{"collection":{"$content":[{"name":"Speed","value":{"$content":5.0,"$type":"System.Single"},"$version":"A"},{"name":"Sprinting","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"Jump","value":{"$content":20.0,"$type":"System.Single"},"$version":"A"},{"name":"MovingRight","value":{"$content":true,"$type":"System.Boolean"},"$version":"A"},{"name":"canStomp","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"},{"name":"isJumping","value":{"$content":false,"$type":"System.Boolean"},"$version":"A"}],"$version":"A"},"$version":"A"}}'
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c69f5e5e68cfa0b489f2773ab36cb788, type: 3}
 --- !u!1001 &8551343761932723299
