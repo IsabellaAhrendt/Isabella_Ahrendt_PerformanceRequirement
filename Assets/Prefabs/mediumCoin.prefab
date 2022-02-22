@@ -48,7 +48,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 1
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 3.31
+  m_Intensity: 1
   m_LightVolumeOpacity: 0
   m_ApplyToSortingLayers: 4f83172500000000dfaa1fce
   m_LightCookieSprite: {fileID: 0}
@@ -105,6 +105,7 @@ GameObject:
   - component: {fileID: 6536719537570700013}
   - component: {fileID: 6536719537570700002}
   - component: {fileID: 6536719537570700003}
+  - component: {fileID: 5560496240961933627}
   m_Layer: 12
   m_Name: mediumCoin
   m_TagString: Untagged
@@ -235,3 +236,22 @@ MonoBehaviour:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
     - {fileID: 11400000, guid: 9384ef87384d7084b82897225aee49a5, type: 2}
+--- !u!95 &5560496240961933627
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6536719537570700000}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 36b597d7011aa6d45b7338db21bbcdc5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
