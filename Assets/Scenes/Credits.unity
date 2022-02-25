@@ -216,8 +216,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 276.222, y: 95.819}
+  m_AnchoredPosition: {x: 0, y: -70.436}
+  m_SizeDelta: {x: 276.222, y: 311.383}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &166188584
 MonoBehaviour:
@@ -252,7 +252,14 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1.2
-  m_Text: A SMALL GAME PROJECT BY ISABELLA AHRENDT
+  m_Text: 'A SMALL GAME PROJECT BY ISABELLA AHRENDT
+
+
+
+
+
+    All Sound Effects and
+    Music obtained from Zapsplat'
 --- !u!222 &166188585
 CanvasRenderer:
   m_ObjectHideFlags: 0
